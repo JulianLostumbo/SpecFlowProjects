@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = BDD
+build_property.ProjectDir = C:\Automation\SpecFlow\FirstE2E\BDD\
